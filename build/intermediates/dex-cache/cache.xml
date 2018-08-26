@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/ac528ea338af4698f11eb1ff11d7a85d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/30d0cbf1984aa93c83767ab9d0bab18f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/a179cd2d34b5a645f8d35eb41a8aee3a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/c01fcdee1c875163fbe83001e994ce1a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/d3e82b3776c7d639ff24afb6a26c246a/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/0d8ec889173a21cfb9dfa8011bc0cd7f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/eb7d79c904ae31377e7111f00a647b7d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/63952cf96828f6ce46ccc498006bbb7d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/777c4fd88901809f9015e462ffa1845b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/baher/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/d676bc0bd3f740ddff262def7970fe4b/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/baher/pos/app/build/intermediates/transforms/preDex/release/7.jar" />
+    </item>
+
+</items>
